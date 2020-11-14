@@ -1,0 +1,29 @@
+.timer {
+  display: inline-flex;
+  font-size: 12px;
+  text-align: center;
+  width: 25%;
+  letter-spacing: 1px;
+
+  padding: 42px 12px 28px;
+  box-sizing: border-box;
+  text-shadow: 2px 2px 2px rgba(150, 150, 150, 1);
+  text-transform: uppercase;
+}
+
+.field {
+  background-color: black;
+  border-radius: 50%;
+  margin-right: 15px;
+  padding: 25px 25px;
+}
+
+.value {
+  color: #ffffff;
+  display: block;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  letter-spacing: normal;
+  line-height: 1;
+}
